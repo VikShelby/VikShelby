@@ -26,32 +26,62 @@ tech_stack:
   backend: [Node.js, Express, FastAPI, Firebase, PostgreSQL]
   ai_ml: [Python, PyTorch, TensorFlow, LangChain, Gemini, LLaMA]
   tools: [Docker, GitHub Actions, Cloudflare R2, Firebase, Vercel]
+```
 
-⚡ Featured Projects
-🚀 Project	🔧 Tech Stack	📄 Description
-Supplify	Next.js, Firebase, AI, R2	AI-powered commerce platform like Shopify, rebuilt from scratch.
-Dexhand	Raspberry Pi 5, Python, Servos	3D-printed robotic hand with ML vision control.
-CTF-Agent	Python, Gemini API, Rich	AI-assisted Capture-The-Flag automation tool.
-AI Portfolio	Next.js 15, Framer Motion	Animated, responsive personal portfolio powered by OpenAI & Tailwind.
-🧰 Tools, Languages, and Frameworks
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,python,fastapi,tensorflow,pytorch,docker,firebase,git,github,vercel,linux,cpp,arch" /> </p>
-🎨 GitHub Stats & Activity
+---
+
+### ⚡ Featured Projects
+
+| 🚀 Project | 🔧 Tech Stack | 📄 Description |
+|-------------|---------------|----------------|
+| **Supplify** | Next.js, Firebase, AI, R2 | AI-powered commerce platform like Shopify, rebuilt from scratch. |
+| **Dexhand** | Raspberry Pi 5, Python, Servos | 3D-printed robotic hand with ML vision control. |
+| **CTF-Agent** | Python, Gemini API, Rich | AI-assisted Capture-The-Flag automation tool. |
+| **AI Portfolio** | Next.js 15, Framer Motion | Animated, responsive personal portfolio powered by OpenAI & Tailwind. |
+
+---
+
+### 🧰 Tools, Languages, and Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,python,fastapi,tensorflow,pytorch,docker,firebase,git,github,vercel,linux,cpp,arch" />
+</p>
+
+---
+
+### 🎨 GitHub Stats & Activity
+
 <div align="center">
 
-
+  ![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelvictordervishi&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelvictordervishi&layout=compact&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=emanuelvictordervishi&theme=tokyonight&hide_border=true)
 
 </div>
-🌀 Animated Contribution Graph
-<p align="center"> <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
-🧠 Fun Stats
 
-    🧩 I love building AI systems that automate real-world tasks
+---
 
-    ⚙️ I contribute to CTF & Cybersecurity challenges (ECSC Team Albania 🇦🇱)
+### 🌀 Animated Contribution Graph
 
-    💡 Motto: “Build. Break. Learn. Repeat.”
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-🪩 Animated Footer
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Let's+Collaborate+on+AI,+Full-Stack+Projects,+and+Security!;Always+Learning%2C+Always+Building+💡" /> </p> 
+---
+
+### 🧠 Fun Stats
+
+- 🧩 I love building **AI systems that automate real-world tasks**
+- ⚙️ I contribute to **CTF & Cybersecurity challenges** (ECSC Team Albania 🇦🇱)
+- 💡 Motto: *“Build. Break. Learn. Repeat.”*
+
+---
+
+### 🪩 Animated Footer
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Let's+Collaborate+on+AI,+Full-Stack+Projects,+and+Security!;Always+Learning%2C+Always+Building+💡" />
+</p>
+ 
 
 
