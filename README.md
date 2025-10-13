@@ -53,9 +53,7 @@ tech_stack:
 
 <div align="center">
 
-  ![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelvictordervishi&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelvictordervishi&layout=compact&theme=tokyonight&hide_border=true)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=emanuelvictordervishi&theme=tokyonight&hide_border=true)
+  ![![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
