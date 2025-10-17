@@ -31,65 +31,13 @@ tech_stack:
 
 ---
 
-### 🚀 Featured Projects
 
-#### 🧩 Figma Clone (Jan 2024 – Feb 2024)
-**Tech:** Next.js • TypeScript • TailwindCSS • Liveblocks • Shadcn UI  
-**Description:** A real-time collaborative design tool with vector editing, layers, and live multiplayer collaboration. It brings the essence of Figma to the web with instant updates, cloud saving, and exportable assets.  
-[🌐 Website](#) • [💻 Source](#)
-
----
-
-#### 🎙️ PrepWise Interview
-**Tech:** Next.js • TypeScript • Firebase • TailwindCSS • Google Generative AI API • Magic UI  
-**Description:** AI-driven platform that generates **voice-call interviews** with realistic conversations and instant feedback. Helps recruiters and job seekers practice real interview scenarios.  
-[🌐 Website](#) • [💻 Source](#)
-
----
-
-#### 📊 llm.report (Apr 2023 – Sep 2023)
-**Tech:** Next.js • TypeScript • PostgreSQL • Prisma • Stripe • Cloudflare Workers  
-**Description:** Open-source logging & analytics platform for OpenAI — log your ChatGPT API usage, analyze costs, and optimize prompts.  
-[🌐 Website](#) • [💻 Source](#)
-
----
-
-#### 💬 Threads Clone
-**Tech:** Next.js • TypeScript • MongoDB • MERN Stack • TailwindCSS • Magic UI  
-**Description:** Web-based social platform for sharing updates, chatting, and following discussions. Includes real-time notifications and sleek UX.  
-[🌐 Website](#) • [💻 Source](#)
-
----
-
-#### 🧠 NanoLLM
-**Tech:** Python • PyTorch • Custom Dataset  
-**Description:** A custom-built lightweight **language model** designed for experimentation with tokenization, embeddings, and attention mechanisms.
-
----
-
-#### 💻 Dotal Programming Language
-**Tech:** C++ • LLVM (planned)  
-**Description:** An interpreted programming language written in **Albanian syntax**, built for educational and creative expression.  
-
----
-
-### 🧰 Tools, Languages, and Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,python,fastapi,tensorflow,pytorch,docker,firebase,git,github,vercel,linux,cpp,arch" />
-</p>
-
----
 
 ### 🏆 GitHub Stats & Achievements
 
 <div align="center">
   
-  ![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelvictordervishi&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelvictordervishi&layout=compact&theme=tokyonight&hide_border=true)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=emanuelvictordervishi&theme=tokyonight&hide_border=true)
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=emanuelvictordervishi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=VikShelby&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
