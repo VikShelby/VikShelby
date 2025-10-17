@@ -67,7 +67,7 @@ I've worked on a variety of projects, from simple websites to complex web applic
 
 ---
 
-### 🪩 Animated Footer
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Let's+Collaborate+on+AI,+Full-Stack+Projects,+and+Cybersecurity!;Always+Learning,+Always+Building+💡" />
