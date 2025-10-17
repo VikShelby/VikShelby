@@ -37,8 +37,7 @@ tech_stack:
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=VikShelby&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
